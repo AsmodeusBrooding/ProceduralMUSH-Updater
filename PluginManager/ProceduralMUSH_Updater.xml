@@ -804,9 +804,9 @@ function Raw_Update(retval, page, status, headers, full_status, request_url)
 
 function PruHelp()
 utilprint("@x238+--------------@x238[@x009PR@x202OC@x208ED@x214UR@x220AL@x011 RE@x190AL@x154MS @x118UP@x082DA@x047TE@x048R@x238] @WVersion @Y"..GetPluginInfo (GetPluginID (), 19).."@x238----- -----------+")
-utilprint("@x238| @x214hpm help                @x110- @x214Displays this helpfile @x238                    |")
-utilprint("@x238| @x208hpm check               @x110- @x208Checks to see if there is any updates @x238     |")
-utilprint("@x238| @x214hpm update              @x110- @x214Checks for updates on this script@x238          |")
+utilprint("@x238| @x214pru help                @x110- @x214Displays this helpfile @x238                    |")
+utilprint("@x238| @x208pru check               @x110- @x208Checks to see if there is any updates @x238     |")
+utilprint("@x238| @x214pru update              @x110- @x214Checks for updates on this script@x238          |")
 utilprint("@x238+----------------------------------------------------------------------+")
 end
 
